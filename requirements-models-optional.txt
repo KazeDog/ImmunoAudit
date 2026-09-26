@@ -1,0 +1,6 @@
+# Optional Task 2 neural/tabular model training, not required for offline tests.
+# Choose a PyTorch build appropriate for your hardware. The author environment
+# used torch 2.11.0+cu126; this hardware-specific wheel is not bundled.
+torch==2.11.0
+rtdl-revisiting-models==0.0.2
+tabpfn==7.0.1

@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "scope": "Current-code-only reviewer archive",
+  "known_local_credential_exact_scan": "PASS; credentials read in memory and never written to reports",
+  "pattern_and_literal_scan": "PASS",
+  "author_home_paths_in_package": 0,
+  "python_compile": "PASS",
+  "offline_tests": "86 passed, 1 deselected in 5.11s",
+  "cli_help_checks": 11,
+  "original_source_hashes_unchanged": true,
+  "historical_code_directories_included": false,
+  "patient_data_included": false,
+  "live_api_calls": 0,
+  "full_study_reproduction_run": false,
+  "clean_environment_install_validated": false,
+  "limits": "Heuristic credential scans are not a proof of absence of every secret. Data/model prerequisites are external.",
+  "relocated_offline_tests": "86 passed, 1 deselected in 5.04s"
+}

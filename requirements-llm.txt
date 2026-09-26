@@ -1,0 +1,3 @@
+# Optional adapters; API execution still requires explicit opt-in and credentials.
+requests==2.33.0
+google-genai==1.73.1

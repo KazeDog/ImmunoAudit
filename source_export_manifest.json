@@ -1,0 +1,553 @@
+{
+  "scope": "ImmunoAudit analysis and required shared functions only; no archived revision scripts, old figures or study data",
+  "files": [
+    {
+      "path": "code_strategy3/cache.py",
+      "source_sha256": "53f523a76fe1038a34a8ecb86f66828c75c85b745b8458a7a6a015f94ace58ad",
+      "exported_sha256": "b65cd592d7c7ab0752045779b3acbb82610e174c2f9e13477e51690e23191389",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/strategy3_task2_qwen.py",
+      "source_sha256": "fc6c7451d1fc10a3cfbfb2ed58bce886a749c26294e5993572d52937ec553be9",
+      "exported_sha256": "7222efa478fb7efeaf4381cda0d68d618217f88ce8505ed74cfc4a56df9f5ae2",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/strategy3_task5_batch_eval.py",
+      "source_sha256": "aee639154697692e6e7da5daf486a8a4e03031684f6d0ff515e27f41c7053738",
+      "exported_sha256": "9921f333ffd5c35660dde654b1a528431e08d0a89080c4f0b6d1d4c30659c6b3",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/schemas.py",
+      "source_sha256": "5e5ee79bc22ad0f2decb1c7fc45948b2d3d2e509d7201b0e93fd2838db18f644",
+      "exported_sha256": "d023462541d84b9faa09ee71d16a71be3824f0113235c65ffa9b225ce12c39b2",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/strategy3_task3_qwen.py",
+      "source_sha256": "78cdc2411961bf2ba665f4615183d749fc9afc19e642a170d12d68c2edc1d34d",
+      "exported_sha256": "1848e837d440fd393eb6fd8d2947c34523caada63e94d6df13957cb4583c90d8",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/llm_client.py",
+      "source_sha256": "6ec0bd469426049efed6b55b078ca7b41eb8275b4a8acbaef7861e5d9123769f",
+      "exported_sha256": "474e60709c1c4fd78c3d6663cc9dd866eb5efd7a06790839e7599d38eadc2f44",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/strategy3_task2_batch_eval.py",
+      "source_sha256": "d0d3e5eee9bf027f0f367608c4e53368ec076d1dff2ff9e66958fffde3e4d86e",
+      "exported_sha256": "4e231b2e243c16220d0a354e432e9e6eefb229a3e3dcec94bb6acdc713d4dcf6",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/strategy3_task1_qwen.py",
+      "source_sha256": "26f316e1d545a3acdeec035b6ca8915593922f2495cca5296b881290690fe25f",
+      "exported_sha256": "90f97ba2d210df8f3df7a85641baf1435ed147e67f5629632b424dad6f540fb8",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/strategy3_task3_batch_eval.py",
+      "source_sha256": "4b098c2d6836748974a2064809b8c5a1d3a4cfc544cf3bdd8cf7336dca72e675",
+      "exported_sha256": "e019590b523512f77ff95b6bccfa714cfb068d3ed56c8703804c1d9b4c3cbb8d",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/__init__.py",
+      "source_sha256": "cd34be6b09120607ff3128a3f0c685af4f06721422ccab46162fc42301610cf9",
+      "exported_sha256": "220bc0ab68b5e88f5c997d7695bd2fb466fc1c321c53ecba1954b6a4c315f16b",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/strategy3_task1_batch_eval.py",
+      "source_sha256": "18a3e598aa8788958326766546a62a4223f7b5ba41c038b9c8273ce56f3dc8ae",
+      "exported_sha256": "56dea57d54693432fa029c408098204f293bf3769443460d05831662d691d500",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/strategy3_task5_qwen.py",
+      "source_sha256": "a3cc71f0bc3e401490646541cc657260d3a56d069a1d933ee69a14360ed6a16b",
+      "exported_sha256": "87a498acc17c9e79ae5f42bd2473672fcad26b865c65fd464cc85314162062b2",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/config.py",
+      "source_sha256": "f4804bee716a9cc24b8b0a608516958730da98873fa4ca18ae6dd1c0cc568e82",
+      "exported_sha256": "ebe7932d55492e55c72b928c9b51eea24d2b1430b3f5a15140f8abc9a30a0939",
+      "path_rewrites": 0,
+      "removed_unused_definitions": [],
+      "initial_export_sha256": "ba0237e999e7938cc812ea131088e221f66f8ae4fc36f39258202efa95b737cb",
+      "submission_followup": "See EXPORT_NOTES.md; parameter/input plumbing or credential safety adjustment."
+    },
+    {
+      "path": "code_strategy3/profiles_v1.py",
+      "source_sha256": "de5076f753617f4e2555b7f261e4aa1ad88d295e9b03d67701c5c577728b9d80",
+      "exported_sha256": "44e3483059ebba469f866fcb31599485f3b66ec872c761a2ee90649e99c1b543",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/strategy3_task4_batch_eval.py",
+      "source_sha256": "72afd5df4162eb703d2f02f72ac7b476ff3500f70d8cfcc8923a719c7404f37a",
+      "exported_sha256": "4b371b930fa786adf74ed56543f079bb9e530317e97fc41b7f04c82122fddd4a",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/strategy3_task4_qwen.py",
+      "source_sha256": "8dfb9ceff537ad068b829445316cd2edb0684e122197f60ca06284039ecdaad7",
+      "exported_sha256": "a8784b3260c12320e551f08edf8db6a0aca8a248cb9d9a835dd80b5997cac4c1",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/strategy3_task3_gemini.py",
+      "source_sha256": "fa4c3675753fd3c1cd987e4a067886441202df60ebafe29b4f56b5c9531404a7",
+      "exported_sha256": "60d76be00a7c32910a6b2d6762ea911a07c09947b1f2dcd6bf27e00cd6ef198e",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/prompts/task1.py",
+      "source_sha256": "7465d95bd250c3543a07a71826934ac91b10f339ce8c4d5f3c5e1858cbb69796",
+      "exported_sha256": "0b7ed0b746ddbc4f9a2850601af3ba17bd377cf8c2f9a590fe2d949febe2e4f8",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/prompts/task5.py",
+      "source_sha256": "d459a00fea2f1351a86c23f3913a4507353e8ed65b38b934a2fd4b717a1c1f78",
+      "exported_sha256": "71dd846a32f4357cc967ca4aa4b073937543e2efa914826f0d630bc57196fc3f",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/prompts/task3.py",
+      "source_sha256": "d3b09f0de4b8d8d60c6c75488de4f865d3be429d7fd6938b245deb8ba90024ec",
+      "exported_sha256": "464ca6cdc97326594bb470bcc0ecef80dc3bb8156e103199420148e03c173947",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/prompts/task4.py",
+      "source_sha256": "85c2c48a75ab4715c54b1a3de719bcaac0a7ea0ed914fa39509ac3aca0d99ccb",
+      "exported_sha256": "363237185208c00e33ea673f8e3b2850e22a19195cd6e2e1fff73c16e117ab9e",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/prompts/__init__.py",
+      "source_sha256": "fb1e421b9ae06a5cd15a9d1718e556e4d12d3f03413ca1f413474bb039196c5e",
+      "exported_sha256": "96a294f34a90893aff79ad81d184998d099be32f4076d9294a352284346de96e",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/prompts/task2.py",
+      "source_sha256": "c5ab6792ec957d5e6848e5d616c5e947eb495233e5af4b053ead7dcacb0cfafa",
+      "exported_sha256": "11a324cf3e3bfb9fe386405223e04e1f0d1e42590d2d8b934dd3a70f3cd0b25a",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/providers/qwen.py",
+      "source_sha256": "1391a5efd7f60e7505b2a69726c6eadc24001fc2797de45197b9b739df58e922",
+      "exported_sha256": "7a3404f07a38219015344e850a6e79a8b44bffa8fd3885e0c53497ab2a502e31",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/providers/__init__.py",
+      "source_sha256": "52d04348933b57c2ebe84768a05e97220521bfb79048114a6ea2919bcf360932",
+      "exported_sha256": "bdc9e384381d82c05862f7798b32eb78976fd350c7cd532c728ee89f62823407",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/providers/base.py",
+      "source_sha256": "2165dacd8b71893b11e3c7b3ff716948c32b3b0c4375f9a09aaa256c1758feaf",
+      "exported_sha256": "849742cbaffab77367a6ae9558dbc3010e6265ad79ebaa9779ff9462b1954855",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/providers/gemini.py",
+      "source_sha256": "59068fa378b3c57f6c31c536352d315f6837d6c6c9409f03cb798d8179eba4c4",
+      "exported_sha256": "544718d59e9c49e1f600aa2b159463804425ce1a31eadad43d5defb326b11cce",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/decision/task1.py",
+      "source_sha256": "072dec28269a6e322d86c0ed70538c278c7ba3bef15177ce7f29e4bfef0f97f6",
+      "exported_sha256": "a714d43395851f5f31cb73d18356d816cecec50c6fef849074591cc0b27d7a67",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/decision/task5.py",
+      "source_sha256": "e9e59b1c80c251d3abb62c42f68149ffdf18db69b1cb0738d003612a6b145b91",
+      "exported_sha256": "c4a5aa37da07c48582db8b9acb28f795c04cd94192f3885a407ef5cb0c9ee416",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/decision/task3.py",
+      "source_sha256": "33396ae9ccbf9079b9c0914e257a401161b051677c260adcba125b053c4621f7",
+      "exported_sha256": "8e1676645d9e33566df713d0e607f7038310260afead05b4afcb8a7230bc7bb6",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/decision/task4.py",
+      "source_sha256": "28c8709bdab77ff73dae88cbfb3dc66fa2d312c4129a8982419d4c4b70d97dd8",
+      "exported_sha256": "d553c6bdb1c343bca182fef155c20801aaab0586fa52228c72d88793ae7790c3",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/decision/__init__.py",
+      "source_sha256": "4a337f28c7fd053bfee907292f8c0c86bbf0fdbc8dafb05d28518a2c8ec40f09",
+      "exported_sha256": "ef1ceabda27c603eefa8913985df02ea897a77b319caef668c360e7a42ae197a",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/decision/task2.py",
+      "source_sha256": "9bb666123f240a0319f9b5b546dbd2ef89b1843897a46167deab590b76a7af1d",
+      "exported_sha256": "dc7a97aea587c4a90e8b4c389efbe327073bce546faac25a4be9c68c40d1b550",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/tasks/task1.py",
+      "source_sha256": "f5dd7a9035bac5b00b659fb664d89c0af0e86521a76cb032df165f3d6564e893",
+      "exported_sha256": "acc8b78fd8379d707bb83fc9621f745b0da4782de594b3278a3f98f3746c9f32",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/tasks/task5.py",
+      "source_sha256": "bac0238133ea0d3d471fe58fe72ab44d99d1f4632603179ea444c6ec1ea992a7",
+      "exported_sha256": "b9d9bc6c4fc01e5dbec1bfff54f2c048e66aa61c657559b17a86259e8b8240f6",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/tasks/task3.py",
+      "source_sha256": "c31167edf93be723a9200552116a4da17238c5b3abe4ec60d1a8a3eb92ee6b17",
+      "exported_sha256": "408365270d08a51ac5aed1dc728c0e0c4e6bfad6a89bca73182ddfc977a9b1ae",
+      "path_rewrites": 2,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/tasks/task4.py",
+      "source_sha256": "dc22d521b73ec259205a76b42df4848df0fffe77f9b8a559b3d4c38c202a809d",
+      "exported_sha256": "56c6f58033173e3477da1c2fc224df6514c938aca9b966b6d3da9729542f52f0",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/tasks/__init__.py",
+      "source_sha256": "1542697615621e421a929df61627cc1414e089f3545e3c822ec5e5ad85cca60f",
+      "exported_sha256": "4cfacdf1914cee8b5160970bbb63a8d827affe5759e9f0c7a4c498f142f98047",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/tasks/task2.py",
+      "source_sha256": "cda74bb31f0dcfaa6676f02968c4c74aef1a30f284750eb7ac17e72b1fa1be05",
+      "exported_sha256": "4c9d97bea91501efef85f37997e8389cdec7bfb56b8581c2dff443c5892d63b1",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/tests/__init__.py",
+      "source_sha256": "5aa71b0c1c6983149395f1aefd61ff44a8082adbbee6c83d70aee26fda4a2226",
+      "exported_sha256": "e672fc05c2dc54009fa471eac3779e03384bbb57aac23708cf833873476da53d",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "code_strategy3/tests/test_profiles_v1.py",
+      "source_sha256": "910ebc19f65f87d4d1e95ac2904cede66b76648abd2bf9303e8411380068606a",
+      "exported_sha256": "632eb83131869c52b748f8e722e2c7b204fdd3696f26e502b4b842c7142ffe9b",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "experiments/task2_cancer_context/task2_context_common.py",
+      "source_sha256": "eeaae51bd0e8b01d561b12218ad27619030323248b5b310a860e757b946423ee",
+      "exported_sha256": "5219afddc466ee413457d19f4bab39aaf3577aa75ed2379e9c264dad4d17cbf2",
+      "path_rewrites": 2,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "experiments/task2_cancer_context/build_task2_cancer_context.py",
+      "source_sha256": "18d1ecb7e6664f2d07bf1b7f3a45680d183beb246403bf26dfa8c11b64227cc4",
+      "exported_sha256": "a7ce06e404f5cc29699c14d484e28953daa4337b5d10cbfac2ad21208b7a3d97",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "experiments/task2_cancer_context/evaluate_task2_cancer_context.py",
+      "source_sha256": "6a20e8f03642a3b7a62094c487683b6bfc9ed3eb7aa49d5ec81d0d5c8f8b4a6b",
+      "exported_sha256": "ee5a9794647a26c03d896864114cc1871d2d825dccfa1850966d66ee419d92b9",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "experiments/task2_cancer_context/run_task2_cancer_context_cox.py",
+      "source_sha256": "201404533c4bae44c1fc0c77706e5feba645b5669d8eab7ee9e63e3225b990bb",
+      "exported_sha256": "ed9e20e715a02b989c3be46afac655da8c63ebb9c2f7fb3af95a629e27ca962f",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "experiments/task2_cancer_context/tests/test_run.py",
+      "source_sha256": "a559715529d2d41462dde57851a282c9757f9328e9ce7dc1d8a50241d1bd3451",
+      "exported_sha256": "810657a6efc16588372801b6d451076208ca88f4473f89479a96fee9fc3c57ea",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "experiments/task2_cancer_context/tests/test_evaluate.py",
+      "source_sha256": "97ef75e1e2e9ad801f28bd4a9e15be13ce64e8e35e4dcb2dc51bd38a1b27449a",
+      "exported_sha256": "aaa5c4113349557c6365b428cfd4f5d4cd9f6ef949c63aee63af30cd1aafcdf5",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "experiments/task2_cancer_context/tests/test_build.py",
+      "source_sha256": "b99993f08de93d629003875fef09c2c43db2e48ee47ce55b480a05416e6e5288",
+      "exported_sha256": "e0f4e917bd91098bc2501bb5bb12ceba1ae9d29bb197dedb5d5c33d3802d6c77",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "analysis/cancer_context/scripts/task2_cancer_context_audit.py",
+      "source_sha256": "6e01508ec7868ab9ac13b7cc911304e7a20e96a55007bdb22ea585d4c0dd6b97",
+      "exported_sha256": "ca011fddea635c88ef757b951abbc3414fc4c7b568f1531d827b78fb1871b470",
+      "path_rewrites": 3,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "analysis/cancer_context/scripts/task2_strategy2_oof.py",
+      "source_sha256": "b582099c1478934ee5775844c068e42467dbcf03f72465ce4ea9b440b434f695",
+      "exported_sha256": "53288b3c6957f271a7af2e0da33b9959ef10fa130fada65f05adf9abcdd4c312",
+      "path_rewrites": 1,
+      "removed_unused_definitions": [],
+      "initial_export_sha256": "a4991875f038bcddec4231ddda2303bff9532262d98e21a2adbabd7d10313884",
+      "submission_followup": "See EXPORT_NOTES.md; parameter/input plumbing or credential safety adjustment."
+    },
+    {
+      "path": "analysis/cancer_context/tests/test_task2_cancer_context_audit.py",
+      "source_sha256": "c24c5f2aa5204e34bbfa03f391e571a92af4c28c6a19b26ea36f2f98567d03d0",
+      "exported_sha256": "384736ada7ac0ea42a8ea40680a1813f4f9420f83de61f6cc0a5590239f4023f",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "analysis/cancer_context/tests/test_task2_strategy2_oof.py",
+      "source_sha256": "96c8bfb86dfbdd22d6b652ace4253e8365f78c1ec50253e1cc9f66c330948ccb",
+      "exported_sha256": "ac7ddc7ef098942dc2bf9dc134f34199cdc53d180a56057773b0afc67d13f8dc",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "analysis/grouped_tasks/scripts/task135_core.py",
+      "source_sha256": "6adf3639c79ecc644d724154f9023ddeef8993777a909ed8fe5858c7ce74c3d0",
+      "exported_sha256": "f0489de0c13ea9b93f004dfd5ae274305bd38b4c253b2a9ab91231a9dc409fcb",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "analysis/grouped_tasks/scripts/run_task135_audit.py",
+      "source_sha256": "59e48b7650a2a9068db82890fec6829a38f0c13b08ac1419dd5b0359d378c32e",
+      "exported_sha256": "8df7aa6b16e3f4f57823157a52c8c90b7ed9577a55f21f7cdfd4328aa11d3290",
+      "path_rewrites": 2,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "analysis/grouped_tasks/tests/test_task135_core.py",
+      "source_sha256": "b8513605a037d6634cc6216922086661e6290634da97aca4e35156d48597ee64",
+      "exported_sha256": "4c7ea87acdf325f4feb43da69af913a75d2763239c0006d07fbac00398fc2f7f",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "analysis/endpoint_controls/scripts/task2_priority1_extension.py",
+      "source_sha256": "9ec0c0c4e2254c393dd6e537477b4778bf762d3693bf209dd92a27c0193203a1",
+      "exported_sha256": "f51db333f4a25c6147d071adb9d820e0db3535a828267c474a612c5b89265096",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "analysis/transportability/scripts/task2_priority2_loco.py",
+      "source_sha256": "0ee65dede7e2a0284d54547a5fdb6766b8a0ea20ad2bdca1524f84170c214a8f",
+      "exported_sha256": "94e8c8425d09974ba3a8cac272ce6c4c2e097ab51fb5eeb08bdae1ed3254ef52",
+      "path_rewrites": 1,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "analysis/temporal_summary/scripts/audit_core.py",
+      "source_sha256": "2f1952a18e5bb804af3cab30493b53c2c9b0e49f28b2acaea03ae5b3a2b6c8d6",
+      "exported_sha256": "9d66a3f486f350ab78319643581539420839c78a756a89d77e6563fd215a02e8",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "analysis/temporal_summary/scripts/run_extension.py",
+      "source_sha256": "ba04a9583745280fa8360b3322fe4bdc665f815d9384173d995b24109901c10d",
+      "exported_sha256": "527d2f8c149e80bef11cd2031088afbe0900405aa0aa8c67cfcb2a77fe7cacf6",
+      "path_rewrites": 2,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "analysis/temporal_summary/tests/test_extension.py",
+      "source_sha256": "4b2dedd10c305964ea182147ecc562080519810f6241bb50dd60c1c5b184d3bb",
+      "exported_sha256": "767bf9e40ab58132fc0cf74e295cf5bb5ed06744f064c3d429d6568d8208b2fe",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "analysis/disagreement/scripts/run_disagreement_case_analysis.py",
+      "source_sha256": "58544b02c670c933bbf59aed906a5efd21fbdb2176899676afe05ae213b8f947",
+      "exported_sha256": "220e6e1654cac82f44a3acb118a0bed2d17413976ef5773a0516e67dc520bb67",
+      "path_rewrites": 0,
+      "removed_unused_definitions": [],
+      "initial_export_sha256": "354a38819e480a2e1104f94ffa1f4edc120a32586e1f238f99a5f7597eb427e7",
+      "submission_followup": "See EXPORT_NOTES.md; parameter/input plumbing or credential safety adjustment."
+    },
+    {
+      "path": "analysis/disagreement/tests/test_disagreement_case_analysis.py",
+      "source_sha256": "6e2ff60c87e0878e8bc843b18c0acfd89811aa14b32dde16656fc9728696ed94",
+      "exported_sha256": "d7c6d44eb9a87f37dd36eaab9b43121f6e0c29286002381f2a4fe04b8b5b1c05",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "analysis/bcr/repair_core.py",
+      "source_sha256": "51cdeaf0f0a80115a5b20416184af93a2957d1a5e5164b49480ee1a380891f87",
+      "exported_sha256": "70c58c9bedd4a8dc694ce03c587ac7b43bcacddf039615e5524d25f917127982",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "analysis/bcr/run_repair.py",
+      "source_sha256": "913f6a124a27802a67cdc742031021d043a1bf88c2e457729dd993bfa41d40ee",
+      "exported_sha256": "bd2d39f8873dae695d83e502751b18b325ac1a0056699e79d2634301faaf4a64",
+      "path_rewrites": 2,
+      "removed_unused_definitions": [],
+      "initial_export_sha256": "208b61532999b9a5831e52908c6025352b61123bf2af0dd79094b46633887931",
+      "submission_followup": "See EXPORT_NOTES.md; parameter/input plumbing or credential safety adjustment."
+    },
+    {
+      "path": "analysis/bcr/test_repair.py",
+      "source_sha256": "8d11a01ccd7c67928059a2ca706d50f49f64f7205f8e04c82d61bc8ffadef9d5",
+      "exported_sha256": "44e451cd1a27e75078366006636af520374cc1c7def653a41342891bd39671d0",
+      "path_rewrites": 0,
+      "removed_unused_definitions": []
+    },
+    {
+      "path": "analysis/rank_sensitivity/analyse_rank_scales.py",
+      "source_sha256": "2932f89c1a0dfd82e94bb8cabeb0c4868ffe5121847f4d89645d86338bb8f3e8",
+      "exported_sha256": "f47210af450381fd5f25891ca09cd55ebd12f82ddcb13ef19a2f87612fbbb032",
+      "path_rewrites": 1,
+      "removed_unused_definitions": [],
+      "initial_export_sha256": "95cb711c274c763f22db30ed6d481eace85925ef6c222e376db7a76ac48c9c00",
+      "submission_followup": "See EXPORT_NOTES.md; parameter/input plumbing or credential safety adjustment."
+    },
+    {
+      "path": "analysis/bcr/task4_grouped_core.py",
+      "source_sha256": "dc20215a9bdbce95c281c97ef35d276fd8d40a9712ee30e7a4a8b32ac76afac5",
+      "exported_sha256": "be0e3ce795060f34fe3f91414461deac1fb6472e482a296aba18c2dc6c7b91a8",
+      "path_rewrites": 0,
+      "removed_unused_definitions": [
+        "Task4Paths",
+        "FixedPredictionSet",
+        "_first_existing",
+        "discover_task4_paths",
+        "canonical_patient_id",
+        "parse_bcr_filename",
+        "map_raw_bcr_files",
+        "parse_grade_value",
+        "derive_corrected_patient_labels",
+        "derive_legacy_patient_labels",
+        "load_and_validate_metadata",
+        "make_grouped_folds",
+        "make_original_sample_folds",
+        "patient_leakage_diagnostics",
+        "strategy1_specs",
+        "strategy2_specs",
+        "metadata_specs",
+        "metadata_feature_columns",
+        "_take_rows",
+        "cross_validated_oof",
+        "classification_metrics",
+        "foldwise_metrics",
+        "summarize_foldwise",
+        "compare_cv_summaries",
+        "wilson_interval",
+        "toxicity_rate_tables",
+        "subgroup_metrics",
+        "control_exclusion_metrics",
+        "aggregate_patient_predictions",
+        "file_sha256",
+        "infer_llm_provider",
+        "_llm_version",
+        "_prediction_is_actual_api",
+        "_choose_llm_score_column",
+        "_candidate_priority",
+        "select_fixed_prediction_sets",
+        "fixed_prediction_oof",
+        "attach_prediction_metadata",
+        "json_ready",
+        "dump_json_text"
+      ],
+      "initial_export_sha256": "5f2818f35e4d0ba813351d1eafe8ee80f6595b6839d9d588f41b4cceebfcc9fd",
+      "submission_followup": "See EXPORT_NOTES.md; parameter/input plumbing or credential safety adjustment."
+    },
+    {
+      "path": "analysis/bcr/bcr_inputs.py",
+      "source_sha256": "c6faf286869d0f3d4acd81ba579bf48e87c7685b1bed2daeacd9f96f45308d24",
+      "exported_sha256": "111873dd5178491e30774255aef1d261508b3393538ba6b195de148fb63189b2",
+      "path_rewrites": 2,
+      "removed_unused_definitions": [
+        "parse_args",
+        "standard_predictions",
+        "_combined_fold_predict",
+        "combined_predictions",
+        "calibration_statistics",
+        "summarize_predictions",
+        "aggregate_patients",
+        "stratified_resample_indices",
+        "paired_patient_bootstrap",
+        "control_refit_comparison",
+        "sha256",
+        "write_new",
+        "write_csv_new",
+        "write_json_new",
+        "main"
+      ],
+      "initial_export_sha256": "75bdf45b9df1d41c80d934741d2de904c268728e619018fa8d4185c5a189693f",
+      "submission_followup": "See EXPORT_NOTES.md; parameter/input plumbing or credential safety adjustment."
+    }
+  ],
+  "provenance_note": "Original source hashes are retained; author-local source paths are omitted from the GitHub distribution."
+}
